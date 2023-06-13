@@ -380,7 +380,7 @@ Error generating stack: `+o.message+`
     .text {
         line-height: 1.3;
     }
-`;function Vv(){const[e,t]=P.useState(+localStorage.getItem("isYearly")),n=()=>{t(e?0:1),localStorage.setItem("isYearly",e?0:1)};return k.jsxs(Qv,{children:[k.jsx(kv,{}),k.jsxs(iv,{children:[k.jsx(an,{path:"/",element:k.jsx(Rv,{})}),k.jsx(an,{path:"/plan",element:k.jsx(Iv,{isYearly:e,changePlanType:n})}),k.jsx(an,{path:"/addons",element:k.jsx(Dv,{isYearly:e})}),k.jsx(an,{path:"/summary",element:k.jsx(Av,{})}),k.jsx(an,{path:"/success",element:k.jsx(Wv,{})})]})]})}const Qv=Fe.div`
+`;function Vv(){const[e,t]=P.useState(+localStorage.getItem("isYearly")),n=()=>{t(e?0:1),localStorage.setItem("isYearly",e?0:1)};return k.jsxs(Qv,{children:[k.jsx(kv,{}),k.jsxs(iv,{children:[k.jsx(an,{path:"/challenge-5/",element:k.jsx(Rv,{})}),k.jsx(an,{path:"/challenge-5/plan",element:k.jsx(Iv,{isYearly:e,changePlanType:n})}),k.jsx(an,{path:"/challenge-5/addons",element:k.jsx(Dv,{isYearly:e})}),k.jsx(an,{path:"/challenge-5/summary",element:k.jsx(Av,{})}),k.jsx(an,{path:"/challenge-5/success",element:k.jsx(Wv,{})})]})]})}const Qv=Fe.div`
     display: flex;
 
     width: 860px;
