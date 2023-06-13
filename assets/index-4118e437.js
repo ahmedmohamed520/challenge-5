@@ -388,7 +388,8 @@ Error generating stack: `+o.message+`
     margin: 50px auto;
 
     border-radius: 10px;
-    padding: 1rem;
+    padding: 0.75rem;
+    background-color: #fff;
 
     .container {
         position: relative;
